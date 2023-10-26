@@ -1,0 +1,14 @@
+p {
+    color:blueviolet;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 500%;
+}
+body {
+    background-color: gray;
+}
